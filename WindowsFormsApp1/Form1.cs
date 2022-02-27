@@ -41,7 +41,7 @@ namespace WindowsFormsApp1
             miAlumnoStr = aluNombre.Text + " " + aluNota.Text + " " +
            miAlumnoNotaTexto + "\n";
             listaAlumnos.AppendText(miAlumnoStr);
-            misAlumnos.Agregar(miAlumno);
+            
         }
 
         class Alumno
